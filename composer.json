@@ -1,0 +1,20 @@
+{
+    "name": "minhngoc/thi_php2",
+    "description": "thi php2",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nguyenminhngoc2003",
+            "email": "minhngoc2772003@gmail.com"
+        }
+    ],
+    "require": {
+        "eftec/bladeone": "^4.11",
+        "phroute/phroute": "^2.2"
+    }
+}
